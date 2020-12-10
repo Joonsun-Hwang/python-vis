@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+
+# Data directory
+/Data/*.csv
+=======
+>>>>>>> 4fcfd2f8c72b86703c26d42b426ceba1024f516b
